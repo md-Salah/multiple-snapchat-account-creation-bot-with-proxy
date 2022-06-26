@@ -1,0 +1,3 @@
+selenium
+pandas
+pyinstaller --onefile -i"path of icon"  path of python file
